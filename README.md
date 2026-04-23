@@ -6,4 +6,4 @@
 * [Freedman et al. (2001) Data](https://drive.google.com/file/d/13ggmNhTCgXOG12ZhJs47XDN0GFG66roC/view?usp=sharing)
 
 ## Code
-* The Neuroselectivity package we created for the purpose of this project can be found above in Files under "Neuroselectivity_Package_Specifications.ipynb." This package contains the data preprocessing, ANOVA, auROC, and Selectivity Index modules which were used to prepare and analyze data and produce the figures in the body of the thesis.
+* The Neuroselectivity package we created for the purpose of this project can be found above in Files under "Neuroselectivity_Package_Specifications.ipynb." This package contains the data preprocessing, ANOVA, auROC, and Selectivity Index modules which were used to prepare and analyze neural spiking data, as well as to produce the resultant figures.
